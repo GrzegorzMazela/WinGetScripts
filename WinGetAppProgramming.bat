@@ -1,0 +1,12 @@
+winget install -e --id Microsoft.dotnet
+winget install -e --id Microsoft.AzureCLI
+winget install -e --id Microsoft.AzureDataStudio
+winget install -e --id Docker.DockerDesktop
+winget install -e --id Git.Git
+winget install -e --id OpenJS.NodeJS
+winget install -e --id PostgreSQL.PostgreSQL
+winget install -e --id PuTTY.PuTTY
+winget install -e --id Microsoft.SQLServerManagementStudio
+winget install -e --id Canonical.Ubuntu
+winget install -e --id Microsoft.VisualStudio.Enterprise
+winget install -e --id Microsoft.VisualStudioCode-System-x64
